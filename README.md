@@ -1,34 +1,38 @@
-# \# todo\_list
+###### \# todo\_list
 
-# 
+###### 
 
-# A simple and elegant to-do list app built with Flutter.
+###### A simple and elegant to-do list app built with Flutter.
 
-# 
+###### 
 
-# \## Features
+###### \## Features
 
-# \- Add, edit, and delete tasks
+###### 
 
-# \- Light/Dark mode support
+###### \- Add, edit, and delete tasks  
 
-# \- Persistent local storage
+###### \- Light/Dark mode support  
 
-# \- Clean, intuitive UI
+###### \- Persistent local storage  
 
-# 
+###### \- Clean, intuitive UI  
 
-# \## Getting Started
+###### 
 
-# To run this project:
+###### \## Getting Started
 
-# 
+###### 
 
-# ```bash
+###### To run this project:
 
-# flutter pub get
+###### 
 
-# flutter run
+###### ```bash
 
-# 
+###### flutter pub get
+
+###### flutter run
+
+##### 
 
