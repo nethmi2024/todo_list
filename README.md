@@ -1,38 +1,39 @@
-###### \# todo\_list
+📝 TodoList App
+A simple Flutter note-taking app with support for creating, editing, deleting, pinning, and searching notes. Features light/dark mode and local data storage using SQLite.
 
-###### 
+🚀 Features
 
-###### A simple and elegant to-do list app built with Flutter.
+Add, edit, delete notes
+Pin/unpin notes
+Local storage with SQLite
+Light/Dark mode (saved with preferences)
+Real-time search
+Clean UI with Google Fonts
 
-###### 
+📁 Project Structure
 
-###### \## Features
+lib/
+├── db/                 # SQLite logic
+├── models/             # Note model
+├── providers/          # Theme provider
+├── screens/            # UI pages
+├── widgets/            # Custom widgets
+└── main.dart           # App entry point
 
-###### 
+🛠️ Dependencies
+sqflite
+path
+provider
+shared_preferences
+google_fonts
 
-###### \- Add, edit, and delete tasks  
+Add them in pubspec.yaml and run:
+flutter pub get
 
-###### \- Light/Dark mode support  
+▶️ Run the App
+flutter run
 
-###### \- Persistent local storage  
-
-###### \- Clean, intuitive UI  
-
-###### 
-
-###### \## Getting Started
-
-###### 
-
-###### To run this project:
-
-###### 
-
-###### ```bash
-
-###### flutter pub get
-
-###### flutter run
-
-##### 
-
+📌 Notes
+Theme preference is saved using SharedPreferences
+Notes are stored locally in notes.db
+Search works on both title and content
