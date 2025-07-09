@@ -4,25 +4,37 @@ TodoList is a Flutter app designed to help users quickly create, manage, and org
 🌟 Features
 
 🗒️ Create, edit, and delete notes
+
 📌 Pin/unpin important notes for quick access
+
 🔍 Real-time search by title or content
+
 🌗 Light and dark theme with saved preferences
+
 💾 Local data persistence with SQLite database
+
 ✨ Clean and responsive UI using Google Fonts
 
 🛠️ Technologies Used
 
 Flutter & Dart
+
 sqflite (SQLite for local storage)
+
 provider (state management)
+
 shared_preferences (theme persistence)
+
 google_fonts (custom typography)
 
 🚀 Getting Started
 
-Prerequisites:
+Prerequisites
+
 Flutter SDK installed
+
 Android Studio or VS Code
+
 Emulator or physical device
 
 Setup:
